@@ -1,61 +1,57 @@
-# Dependencies
-markdown:	kramdown
-# Permalinks
-permalink:	/blog/:title
+# Site settings
+title: Hanuman
+description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+cover: assets/images/radhakrishna.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://samanyougarg.com" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
 
-# Setup
-title:            Thinny
-tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
-baseurl:          
-commentsystem:    google
-disqus:           example
+# Social
+facebook: facebook
+twitter: twitter
+github:  github
 
-author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+#Additional Pages
+about: about
+contact: contact
+privacy-policy: privacy-policy
 
-paginate:         5
 
-# Custom vars
-icon:             /assets/images/icon.png
-cover:            /assets/images/cover.jpg
+permalink: /:title
 
-social:
-  - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
 
-  - icon:         github
-    url:          https://github.com/camporez
-    desc:         Fork me on github
+# Google Analytics
+analytics_id: ""
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
+# Build settings
+markdown: kramdown
 
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
+kramdown:
+  parse_block_html: true
 
-menu:
-  - title:        Home
-    url:          /
+plugins:
+  - jekyll-paginate
 
-  - title:        About
-    url:          /about
 
-copyright:
-  author:         Camporez
-  url:            http://camporez.github.io
-  type_title:     Some rights reserved
-  type_url:       http://creativecommons.org/licenses/by-nc/2.5
+# Settings for rake task
+safe: False
+lsi: False
+username: samanyougarg #github username
+repo: hanuman #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://samanyougarg.com/
+source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
-parallax:         false
-
-# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:  
-
-# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
-theme_color:       7E9576
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

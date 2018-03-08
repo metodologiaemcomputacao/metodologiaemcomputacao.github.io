@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '>=28'
-gem 'html-proofer', '>=1.4.0'
-gem 'wdm', '~> 0.1.0' if Gem.win_platform?
-
+gem "jekyll", "~> 3.6.2"
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem "github-pages", "~> 168"
+gem "rake", "~> 12.3.0"
+gem 'jekyll-paginate'
