@@ -14,8 +14,10 @@ paginate:	5 # The number of posts to show per page on your homepage
 github:  github
 
 #Additional Pages
-about: sobre
-# contact: contact
+about: about
+contact: contact
+tags: tags
+authots: authots 
 # privacy-policy: privacy-policy
 
 
