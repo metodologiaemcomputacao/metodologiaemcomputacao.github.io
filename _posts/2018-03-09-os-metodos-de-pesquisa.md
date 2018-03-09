@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/metodo-de-pesquisa.jpg'
 title: Os Métodos de Pesquisa
 date: 2018-03-09 07:00:00
-tags: [pesquisa científica]
+tags: [pesquisa científica, métodos de pesquisa]
 author: alencarjp
 ---
 
