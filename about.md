@@ -11,5 +11,5 @@ permalink: /sobre/
 </p>
 
 <p>
-    Se você gosta do que fazemos aqui e deseja colaborar, envie a sua proposta de artigo, e compartilhe aqui que você tem vivido :)
+    Se você gosta do que fazemos aqui e deseja colaborar, envie a sua proposta de artigo, e compartilhe aquilo que você tem vivido :)
 </p>
