@@ -1,19 +1,20 @@
 ---
 layout: page
-cover: 'assets/images/001.jpg'
 title: Ferramentas
 tags: [ferramentas]
-permalink: /ferramentas/
+permalink: ferramentas
 ---
 
-<!--amp-img width="600" height="300" layout="responsive" src="assets/images/about.jpg"></amp-img-->
-
 <p>
-    Como todo bom profissional tem suas feramentas de trabalho, não seria diferente para o pesquisador, e são enúmeras ferramentas para suas diversas atividades, conheça algumas e para que serve.
+    <cita>
+        "Por acaso você sai para se aventurar sem levar nenhum equipamento?"
+    </cita>
 </p>
 
+<amp-img width="600" height="400" layout="responsive" src="{{ site.url }}/assets/images/lum3n-187468-unsplash.jpg"></amp-img>
+
 <p>
-    Se você não conhece, não perca mais tempo, elas vão lhe acompanhar por toda sua vida academica ',' 
+    Como todo bom profissional tem suas feramentas de trabalho, não seria diferente para o pesquisador, e são enúmeras ferramentas para suas diversas atividades, vá em frente, conheça algumas, elas iram lhe acompanhar por toda sua vida academica ','
 </p>
 
 <p>

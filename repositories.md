@@ -6,10 +6,18 @@ tags: [repositórios]
 permalink: /repositorios/
 ---
 
-<!--amp-img width="600" height="300" layout="responsive" src="assets/images/about.jpg"></amp-img-->
+<p>
+    <cite>"Não é bom ficar sem comer, então trate de encontrar alguns artigos."</cite>
+</p>
+
+<amp-img width="600" height="400" layout="responsive" src="{{ site.url }}/assets/images/teddy-kelley-88356-unsplash.jpg"></amp-img>
 
 <p>
-    O Google é a principal fonte de pesquisa em todo o mundo, indexando uma infinidade de sites sem levar em conta a sua veracidade nos conteúdos, "nem sempre a informação é confiável". Entretanto atenção redobrada é necessária para separar as informações relevantes nas pesquisas por trabalhos acadêmicos.
+    O Google é a principal fonte de pesquisa em todo o mundo, indexando uma infinidade de sites sem levar em conta a sua veracidade nos conteúdos, "nem sempre a informação é confiável". Entretanto atenção redobrada é necessária para separar as informações relevantes na pesquisa por trabalhos acadêmicos.
+</p>
+
+<p>
+    <cite>"Você não tem o costume de comer qualquer coisa, hum?"</cite>
 </p>
 
 <p>
