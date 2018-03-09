@@ -36,8 +36,6 @@ permalink: /repositorios/
     <a title="ERIC Institute of Education Sciences" href="https://eric.ed.gov/" target="_blank">ERIC Institute of Education Sciences</a><br>    
 </p>
 
-<blockquote>
-    <p>
-        Você conhece algum repositório que não listamos aqui? Nos informe e adicionaremos a lista :)
-    </p>
-<blockquote>
+<p>
+    Você conhece algum repositório que não listamos aqui? Nos informe e adicionaremos a lista :)
+</p>
