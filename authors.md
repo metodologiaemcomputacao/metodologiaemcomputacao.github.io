@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authors
+title: Autores
 comments: false
 permalink: /authors/
 ---
