@@ -26,6 +26,16 @@ Segundo Souza, 2013 pesquisa científica é uma forma sistemática de aplicaçã
   </b>
 
   <p>
-    <a title="SOUZA, Dalva Inês De et al. Manual de orientações para projetos de pesquisa. Novo Hamburgo: FESLSVC, 2013." href="https://www.google.com.br/search?q=Manual+de+orienta%C3%A7%C3%B5es+para+projetos+de+pesquisa&oq=Manual+de+orienta%C3%A7%C3%B5es+para+projetos+de+pesquisa&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8" target="_blank">Google</a>
+    <a title="SOUZA, Dalva Inês De et al. Manual de orientações para projetos de pesquisa. Novo Hamburgo: FESLSVC, 2013." href="https://www.google.com.br/search?q=Manual+de+orienta%C3%A7%C3%B5es+para+projetos+de+pesquisa&oq=Manual+de+orienta%C3%A7%C3%B5es+para+projetos+de+pesquisa&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8" target="_blank">Google Search</a>
+  </p>
+</blockquote>
+
+<blockquote>
+  <b>
+  BERNDTSSON, Mikael et al. Thesis projects: a guide for students in computer science and information systems. Springer Science & Business Media, 2007.
+  </b>
+
+  <p>
+    <a title="BERNDTSSON, Mikael et al. Thesis projects: a guide for students in computer science and information systems. Springer Science & Business Media, 2007." href="https://books.google.com.br/books/about/Thesis_Projects.html?id=I5CV_uUKfYoC&source=kp_cover&redir_esc=y" target="_blank">Google Book</a>
   </p>
 </blockquote>
