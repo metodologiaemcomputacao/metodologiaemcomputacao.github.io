@@ -6,7 +6,7 @@ permalink: /quiz/
 
 <p>
     <cite>
-        "Teste sua proposta, antes de levá-la ao seu orientador :)"
+        "Checklist: Teste sua proposta, antes de levá-la ao seu orientador :)"
     </cite>
 </p>
 

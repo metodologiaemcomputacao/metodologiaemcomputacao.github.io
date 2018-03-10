@@ -2,7 +2,7 @@
 layout: page
 title: Ferramentas
 tags: [ferramentas]
-permalink: ferramentas
+permalink: /ferramentas/
 ---
 
 <p>
