@@ -1,13 +1,12 @@
 ---
 layout: page
-cover: 'assets/images/001.jpg'
 title: Repositórios de Trabalhos Cientifícos
 tags: [repositórios]
 permalink: /repositorios/
 ---
 
 <p>
-    <cite>"Não é bom ficar sem comer, então trate de encontrar alguns artigos."</cite>
+    <cite>"Não vai querer passar fome? Então trate de encontrar alguns artigos."</cite>
 </p>
 
 <amp-img width="600" height="400" layout="responsive" src="{{ site.url }}/assets/images/teddy-kelley-88356-unsplash.jpg"></amp-img>

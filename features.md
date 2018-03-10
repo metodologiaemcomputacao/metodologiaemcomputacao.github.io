@@ -32,5 +32,5 @@ permalink: /ferramentas/
 </p>
 
 <p>
-    Você conhece algum ferramenta que não listamos aqui? Nos informe e adicionaremos a lista :)
+    Você conhece alguma ferramenta que não listamos aqui? Nos informe e adicionaremos a lista :)
 </p>
