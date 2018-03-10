@@ -11,12 +11,12 @@ paginate:	5 # The number of posts to show per page on your homepage
 # Social
 # facebook: facebook
 # twitter: twitter
-github:  github
+# github:  github
 
 #Additional Pages
-about: about
-contact: contact
-tags: tags
+about: Sobre
+contact: Contato
+tags: Tags
 authots: authots 
 # privacy-policy: privacy-policy
 

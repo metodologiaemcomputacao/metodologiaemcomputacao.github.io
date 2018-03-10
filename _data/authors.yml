@@ -1,6 +1,7 @@
 rodriguesfas:
   username: rodriguesfas
   name: RordiguesFAS
+  name_full: Francisco de Assis de Souza Rodrigues
   location: Recife
   url_full: http://rodriguesfas.com.br
   url: rodriguesfas.com.br
@@ -13,6 +14,7 @@ rodriguesfas:
 alencarjp:
   username: alencarjp
   name: AlencarJP
+  name_full: Jayr Alencar Pereira
   location: Recife
   url_full: http://jayralencar.com.br
   url: jayralencar.com.br
