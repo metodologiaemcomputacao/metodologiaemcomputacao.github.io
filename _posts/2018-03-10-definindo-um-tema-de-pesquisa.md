@@ -1,10 +1,9 @@
 ---
 layout: post
 cover: 'assets/images/evan-kirby-77583-unsplash.jpg'
-title: Definindo um Tema de Pesquisa
-description: Guia de Sobrevivência em Metodologia Científica para Estudantes de Ciência da Computação
-date: 2018-03-10 07:00:00
-tags: [pesquisa científica, tema de pesquisa]
+title: Definindo Tema de Pesquisa
+date: 2018-03-10 00:00:00
+tags: [pesquisa científica, tema]
 author: rodriguesfas
 ---
 
