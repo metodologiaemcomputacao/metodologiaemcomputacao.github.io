@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autores
-comments: false
+comments: true
 permalink: /authors/
 ---
 
