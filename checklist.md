@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Quiz
-permalink: /quiz/
+title: Checklist
+permalink: /checklist/
 ---
 
 <p>
     <cite>
-        "Checklist: Teste sua proposta, antes de levá-la ao seu orientador :)"
+        "O que você precisa saber antes de levar uma proposta ao seu orientador :)"
     </cite>
 </p>
 
