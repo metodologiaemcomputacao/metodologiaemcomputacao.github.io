@@ -30,6 +30,10 @@ author: rodriguesfas
   É de suma importância observar o problema de computação a ser resolvido, o mesmo deve estar ligado à não-existência ou inadequação das ferramentas de computação existentes, e não apenas aos aspectos ou técnicas da área de aplicação. Por outro lado, deve-se sempre ter em vista evitar a tentação de contribuir para uma área que você não conheça ou conhece muito pouco, isso não quer dizer que seja impossível.
 </p>
 
+<p>
+  Sendo assim, mesmo seguindo as orientações citadas, definir um Problema de Pesquisa é um passo que a primeira vista pode parecer simples e fácil, mas no decorrer do caminho se apresenta cheio de mistérios e complexidades, para a grande maioria dos iniciantes na pesquisa científica uma tarefa desafiadora (GOMIDES, 2002).
+</p>
+
 <blockquote>
   <b>
     WAZLAWICK, Raul Sidnei. Metodologia de Pesquisa para Ciência da Computação. 6º Tiragem. Elsevier Editora Ltda, 2009. ISBN 978-85-3552-3522-7 
@@ -45,5 +49,14 @@ author: rodriguesfas
   </b>
   <p>
     <a title="CHURCHILL, Harriet; SANDERS, Teela. Getting your PhD: a practical insider's guide. Sage, 2007." href="https://books.google.com.br/books?id=Sq3adqAie8oC&printsec=frontcover&dq=Getting+Your+PhD:+A+Practical+Insider%27s+Guide+(Survival+Skills+for+Scholars)&hl=pt-BR&sa=X&ved=0ahUKEwiV_cSa3uDZAhXFW5AKHSPrBhsQ6AEIKDAA#v=onepage&q&f=false" target="_blank">Google Book</a>
+  </p>
+</blockquote>
+
+<blockquote>
+  <b>
+    GOMIDES, José Eduardo. A definição do problema de pesquisa a chave para o sucesso do projeto de pesquisa. Revista do Centro de Ensino Superior de Catalão–CESUC–Ano IV, n. 6, 2002.
+  </b>
+    <p>
+    <a title="GOMIDES, José Eduardo. A definição do problema de pesquisa a chave para o sucesso do projeto de pesquisa. Revista do Centro de Ensino Superior de Catalão–CESUC–Ano IV, n. 6, 2002." href="https://www.google.com.br/search?q=A+DEFINI%C3%87%C3%83O+DO+PROBLEMA+DE+PESQUISA+A+CHAVE+PARA+O+SUCESSO+DO+PROJETO+DE+PESQUISA&oq=A+DEFINI%C3%87%C3%83O+DO+PROBLEMA+DE+PESQUISA+A+CHAVE+PARA+O+SUCESSO+DO+PROJETO+DE+PESQUISA&aqs=chrome..69i57j69i60j69i64l3.1202j0j4&sourceid=chrome&ie=UTF-8" target="_blank">Google Search</a>
   </p>
 </blockquote>
