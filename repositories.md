@@ -25,6 +25,8 @@ permalink: /repositorios/
 
 <p>
     <a title="Periódicos CAPES" href="http://www-periodicos-capes-gov-br.ez16.periodicos.capes.gov.br/index.php?option=com_phome" target="_blank">Periódicos CAPES</a><br>
+    <a title="Biblioteca Digital Brasieleira de Teses e Dissetações" href="http://bdtd.ibict.br/vufind/" target="_blank">Biblioteca Digital Brasieleira de Teses e Dissetações</a><br>
+    <a title="Repositório Institucional da UFPE" href="https://repositorio.ufpe.br/" target="_blank">Repositório Institucional da UFPE</a><br>  
     <a title="ELSEVIER" href="https://www.elsevier.com/" target="_blank">ELSEVIER</a><br>
     <a title="IEEE" href="http://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE</a><br>
     <a title="ACM" href="https://dl.acm.org/" target="_blank">ACM</a><br>
@@ -40,7 +42,8 @@ permalink: /repositorios/
     <a title="CERN Document Server" href="http://cds.cern.ch/" target="_blank">CERN Document Server</a><br>
     <a title="Microsoft Academic" href="https://academic.microsoft.com/" target="_blank">Microsoft Academic</a><br>
     <a title="Jurn" href="http://www.jurn.org/#gsc.tab=0" target="_blank">Jurn</a><br>
-    <a title="ERIC Institute of Education Sciences" href="https://eric.ed.gov/" target="_blank">ERIC Institute of Education Sciences</a><br>    
+    <a title="ERIC Institute of Education Sciences" href="https://eric.ed.gov/" target="_blank">ERIC Institute of Education Sciences</a><br> 
+    <a title="Biblioteca Digital Brasieleira de Teses e Dissetações" href="http://bdtd.ibict.br/vufind/" target="_blank">Biblioteca Digital Brasieleira de Teses e Dissetações</a><br>   
 </p>
 
 <p>
