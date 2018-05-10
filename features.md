@@ -29,6 +29,7 @@ permalink: /ferramentas/
     <a title="Sapiens" href="https://www.sapiens.art.br/" target="_blank">Sapiens</a> Precisa de uma ilustração para seu artigo científico? Cuide da ciência, nós cuidamos da arte.<br><br>
     <a title="Evernote" href="https://www.evernote.com" target="_blank">Evernote</a> Organize-se, compartilhe informações e colabore sem esforço, tudo no mesmo lugar.<br><br>
     <a title="Spotify" href="https://www.spotify.com/br/" target="_blank">Spotify</a> Ficar sem ouvir músicas não dá, então cuide em baixar um dos melhores servidores de música, ou continue com seu estresse :)<br>
+    <a title="Spotify" href="https://www.storkapp.me/" target="_blank">Stork</a> Powerful algorithms deliver the important publications and grants you need, on time.<br>
 </p>
 
 <p>
