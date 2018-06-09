@@ -60,6 +60,8 @@ permalink: /repositorios/
     <br>
     <a title="Arxiv Sanity Preserver" href="http://www.arxiv-sanity.com/" target="_blank">Arxiv Sanity Preserver</a>
     <br>
+    <a title="Repositório Institucional da UFPE" href="https://repositorio.ufpe.br/" target="_blank">Repositório Institucional da UFPE</a>
+    <br>
 </p>
 
 <p>
