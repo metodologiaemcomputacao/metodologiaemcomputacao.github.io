@@ -62,6 +62,9 @@ permalink: /repositorios/
     <br>
     <a title="Repositório Institucional da UFPE" href="https://repositorio.ufpe.br/" target="_blank">Repositório Institucional da UFPE</a>
     <br>
+    <hr>
+    <br>
+    <a title="Conferência" href="http://www.globalcis.org/jcit/home/index.html" target="_blank">* Conferência JCIT</a>
 </p>
 
 <p>
