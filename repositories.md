@@ -65,6 +65,8 @@ permalink: /repositorios/
     <hr>
     <br>
     <a title="Conferência" href="http://www.globalcis.org/jcit/home/index.html" target="_blank">* Conferência JCIT</a>
+    <br>
+    <a title="Symposium SBESC" href="http://sbesc.lisha.ufsc.br/sbesc2018/Home" target="_blank">Symposium SBESC</a>
 </p>
 
 <p>
