@@ -28,8 +28,10 @@ permalink: /ferramentas/
     <a title="ResearchGate" href="https://www.researchgate.net/" target="_blank">ResearchGate</a> Esse é seu novo Facebook... "Uma Rede Sócial para Ciêntistas."<br><br>
     <a title="Sapiens" href="https://www.sapiens.art.br/" target="_blank">Sapiens</a> Precisa de uma ilustração para seu artigo científico? Cuide da ciência, nós cuidamos da arte.<br><br>
     <a title="Evernote" href="https://www.evernote.com" target="_blank">Evernote</a> Organize-se, compartilhe informações e colabore sem esforço, tudo no mesmo lugar.<br><br>
-    <a title="Spotify" href="https://www.spotify.com/br/" target="_blank">Spotify</a> Ficar sem ouvir músicas não dá, então cuide em baixar um dos melhores servidores de música, ou continue com seu estresse :)<br>
-    <a title="Spotify" href="https://www.storkapp.me/" target="_blank">Stork</a> Powerful algorithms deliver the important publications and grants you need, on time.<br>
+    <a title="Spotify" href="https://www.spotify.com/br/" target="_blank">Spotify</a> Ficar sem ouvir músicas não dá, então cuide em baixar um dos melhores servidores de música, ou continue com seu estresse :)<br><br>
+    <a title="Spotify" href="https://www.storkapp.me/" target="_blank">Stork</a> Powerful algorithms deliver the important publications and grants you need, on time.<br><br>
+        <a title="Qualis" href="http://qualis.ic.ufmt.br/" target="_blank">Qualis</a> <br><br>
+        <a title="Conference Portal" href="http://portal.core.edu.au/conf-ranks/" target="_blank">Conference Portal</a>.<br><br>
 </p>
 
 <p>
