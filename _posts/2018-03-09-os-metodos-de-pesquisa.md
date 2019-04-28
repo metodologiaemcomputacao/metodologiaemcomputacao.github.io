@@ -122,11 +122,11 @@ author: alencarjp
 
 <blockquote>
   <b>
-  SOUZA, Dalva Inês De et al. Manual de orientações para projetos de pesquisa. Novo Hamburgo: FESLSVC, 2013. 
+  SILVA, Edna Lúcia da; MENEZES, Estera Muszkat; Metodologia da pesquisa e elaboração de dissertação. 4 ed. Florianópolis: UFSC, 2005.
   </b>
 
   <p>
-    <a title="SOUZA, Dalva Inês De et al. Manual de orientações para projetos de pesquisa. Novo Hamburgo: FESLSVC, 2013." href="https://www.google.com.br/search?q=Manual+de+orienta%C3%A7%C3%B5es+para+projetos+de+pesquisa&oq=Manual+de+orienta%C3%A7%C3%B5es+para+projetos+de+pesquisa&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8" target="_blank">Google Search</a>
+    <a title="SILVA, Edna Lúcia da; MENEZES, Estera Muszkat; Metodologia da pesquisa e elaboração de dissertação. 4 ed. Florianópolis: UFSC, 2005." href="https://www.google.com.br/search?q=SILVA,+Edna+L%C3%BAcia+da%3B+MENEZES,+Estera+Muszkat%3B+Metodologia+da+pesquisa+e+elabora%C3%A7%C3%A3o+de+disserta%C3%A7%C3%A3o.+4+ed.+Florian%C3%B3polis:+UFSC,+2005&ie=utf-8&oe=utf-8&client=firefox-b-ab&gws_rd=cr&dcr=0&ei=-NCiWrWNEImAwgTL9JGgCQ" target="_blank">Google Search</a>
   </p>
 </blockquote>
 
